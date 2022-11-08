@@ -1,7 +1,5 @@
 [
-    { "fname" : "Ram", "lname" : "Patil" , "mailId" : "ram@gmail.com" },
-    { "fname" : "Madhu", "lname" : "Sharma" , "mailId" : "madhu@gmail.com" },
-    { "fname" : "Sham", "lname" : "Jadhav" , "mailId" : "sham@gmail.com" }
-    
+    {"fname":"Ram","lname":"Patil","mailId":"ram@gmail.com"},
+    {"fname":"Sham","lname":"Jadhav","mailId":"sham@gmail.com"},
+    {"fname":"Monu","lname":"Manohar","mailId":"monu@gmail.com"}
 ]
-
